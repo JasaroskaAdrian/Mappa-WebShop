@@ -1,2 +1,6 @@
 # Mappa-WebShop
+
+    ```
+    npm install
+    ```
  

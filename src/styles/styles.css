@@ -65,7 +65,7 @@
 
   /* From Uiverse.io by Ali-Tahmazi99 */ 
 input[type = "checkbox"] {
-    -webkit-appearance: none;
+    -webkit-appearance: none; 
     display: none;
     visibility: hidden;
   }
